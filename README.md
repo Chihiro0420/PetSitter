@@ -1,9 +1,12 @@
 # Petsitter
 
+## Initial Wireframe
+https://www.figma.com/file/mkNJKfL1XmMBqWWyjeyZ2A/PetSitter?node-id=0%3A1
+
 ## SET UP
 
 ```shell
-git clone git@github.com:dev-academy-challenges/boilerplate-full-stack-auth0.git [your-project-name]
+git clone
 cd PetSitter
 cp client/auth_config.json.example client/auth_config.json
 cp server/.env.example server/.env
