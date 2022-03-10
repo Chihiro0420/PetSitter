@@ -2,6 +2,8 @@
 
 ### Final group project at Dev Academy
 
+![topimage](https://user-images.githubusercontent.com/88119709/157583527-ef14044c-32dc-42be-b540-644397c4db72.png)
+
 ## User sotry 
 ### Problem
 Pet owners finding it hard to locate pet services close to them (e.g. pet sitting, grooming, walking etc) so we wanted an easy way to connect pet owners to available services.
