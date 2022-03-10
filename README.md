@@ -1,6 +1,6 @@
 # Petsitter
 
-## Getting Started
+## SET UP
 
 ### From the command line
 
