@@ -2,14 +2,8 @@
 
 ### Final group project at Dev Academy
 
-<<<<<<< HEAD
-### Tech
-React, Redux, Node.js, SQLITE, JEST, AUTH0, REST APIs, HTML, CSS, SASS
-||||||| d8cdba8
-=======
 ![topimage](https://user-images.githubusercontent.com/88119709/157583527-ef14044c-32dc-42be-b540-644397c4db72.png)
 
->>>>>>> c0f304d45e9a9b3c5baa8fc8c750fb760f5e7c87
 ## User sotry 
 ### Problem
 Pet owners finding it hard to locate pet services close to them (e.g. pet sitting, grooming, walking etc) so we wanted an easy way to connect pet owners to available services.
