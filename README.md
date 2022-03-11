@@ -2,6 +2,8 @@
 
 ### Final group project at Dev Academy
 
+### Tech
+React, Redux, Node.js, SQLITE, JEST, AUTH0, REST APIs, HTML, CSS, SASS
 ## User sotry 
 ### Problem
 Pet owners finding it hard to locate pet services close to them (e.g. pet sitting, grooming, walking etc) so we wanted an easy way to connect pet owners to available services.
